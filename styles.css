@@ -1,0 +1,19 @@
+body {
+    background-color: #242424;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+introduction {
+    direction: column;
+    align-items: center;
+
+    gap: 10;
+    margin-bottom: 40px;
+}
+
+header {
+    font-size: 48px;
+    font-weight: ultralight;
+    font-style: italic;
+}
